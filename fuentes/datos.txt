@@ -1,0 +1,8 @@
+Se agrega título a la página
+
+Este archivo contiene datos importantes para el desarrollo del proyecto
+Se agrega estilo de letra al proyecto
+
+Se agrega imagen al proyecto
+
+Se agrga configuración final al proyecto
